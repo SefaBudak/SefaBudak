@@ -6,7 +6,7 @@
 
 - 🏫 Kültür Üniversitesinde **Bilgisayar Programcılığı Okuyorum.**
  
-- 👾 GitHub Hesabıma **Yaptığım Tüm Projeleri GitHub'a Yüklüyorum.**
+- 👾 GitHub Hesabıma **Yaptığım Tüm Projeleri Yüklüyorum.**
 
 - 🧑🏻‍💻 Öğrenmeye Çalıştığım Dil **Vue.JS**
 
