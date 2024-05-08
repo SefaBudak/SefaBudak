@@ -8,7 +8,7 @@
  
 - 👾 GitHub Hesabıma **Yaptığım Tüm Projeleri Yüklüyorum.**
 
-- 🧑🏻‍💻 Öğrenmeye Çalıştığım Dil **Vue.JS**
+- 🧑🏻‍💻 Şu Anda Öğrenmeye Çalıştığım Dil **Vue.JS**
 
 - 💻 Bilgim Olan Diller **Temel Seviye HTML CSS ve JavaScript.**
 
